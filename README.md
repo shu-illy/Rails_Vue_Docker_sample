@@ -2,7 +2,7 @@
 
 ## 概要
 
+サンプル
+
 - Frontend: Vue
 - Backend: Rails
-
-の組み合わせをDockerで構築するサンプル
