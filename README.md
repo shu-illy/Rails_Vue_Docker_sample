@@ -4,5 +4,5 @@
 
 サンプル
 
-- Frontend: Vue
+- Frontend: Vue
 - Backend: Rails
